@@ -34,6 +34,7 @@ Data was cleaned and transformed using **Power Query Editor**:
 ## 📂 Files
 
 - Churn_analysis.pbix` → Power BI report file.
+- Bank_churn_analysis_dashboard.png -> Final dashboard view
 
 ## 🔗 How to Use
 
